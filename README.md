@@ -1,5 +1,5 @@
 
-<iframe src="https://giphy.com/embed/8M258MM4LKAqA" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-pug-8M258MM4LKAqA">via GIPHY</a></p>
+<iframe src="https://giphy.com/embed/8M258MM4LKAqA" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
 
 <h1>Hola 👋 Mi nombre es José Manuel Sánchez</h1> 
 
