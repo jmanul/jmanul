@@ -1,4 +1,7 @@
-<h1>Hi there 👋 Mi nombre es José Manuel Sánchez</h1> 
+
+<iframe src="https://giphy.com/embed/8M258MM4LKAqA" width="480" height="325" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/dog-pug-8M258MM4LKAqA">via GIPHY</a></p>
+
+<h1>Hola 👋 Mi nombre es José Manuel Sánchez</h1> 
 
 <h2>Me apasiona el desarrollo y el diseño web</h2> 
 
@@ -58,7 +61,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hola 👋, soy José Manuel Sánchez</h1>
-- 🌱 Actualmente estoy aprendiendo **OpenBootcamp**
 
 
