@@ -1,5 +1,5 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49499051/194436685-0b950441-9606-4d5e-a359-f4cf63660c53.png" width="250" border="0" alt="rana-imagen-animada-0466" />
+<p align="center"><img src="https://user-images.githubusercontent.com/49499051/194436685-0b950441-9606-4d5e-a359-f4cf63660c53.png" width="250" border="0"/>
 </p>
 
 
@@ -61,6 +61,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmanul&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jmanul/github-readme-stats)
+
 <p align="center"><a href="https://www.gifsanimados.org/cat-ranas-198.htm"><img src="https://www.gifsanimados.org/data/media/198/rana-imagen-animada-0466.gif" width="120" border="0" alt="rana-imagen-animada-0466" /></a>
 </p>
 
@@ -69,3 +71,9 @@ Here are some ideas to get you started:
 
 
 
+
+
+
+
+
+<video src="https://user-images.githubusercontent.com/49499051/194427508-ac45e0ef-4777-4729-ad72-85e197023994.mp4" autoply muted loop></video>
