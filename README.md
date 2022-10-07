@@ -5,7 +5,7 @@
 
 <h1>Hola soy José Manuel   <img src="https://media.giphy.com/media/l49K0ffVgFGJkZRLi/giphy.gif" width="60"></h1> 
 
-<h2>Me apasiona el desarrollo y el diseño web</h2> 
+<h2>Me apasiona el desarrollo y el diseño web , soy un rock-metalero que disfruta mucho con el deporte al aire libre y dibujando</h2> 
 
 
 
