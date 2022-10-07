@@ -1,6 +1,8 @@
 
 
-<a href="https://www.gifsanimados.org/cat-ranas-198.htm"><img src="https://www.gifsanimados.org/data/media/198/rana-imagen-animada-0466.gif" border="0" alt="rana-imagen-animada-0466" /></a>
+![logo_1_reduc](https://user-images.githubusercontent.com/49499051/194436685-0b950441-9606-4d5e-a359-f4cf63660c53.png)
+
+
 <h1>Hola 👋 soy José Manuel </h1> 
 
 <h2>Me apasiona el desarrollo y el diseño web</h2> 
@@ -55,11 +57,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<p align="center"><a href="https://www.gifsanimados.org/cat-ranas-198.htm"><img src="https://www.gifsanimados.org/data/media/198/rana-imagen-animada-0466.gif" border="0" alt="rana-imagen-animada-0466" /></a>
+</p>
 
-
-
- <p align="left"> <a href="https://discord.com/users/jmanul77#6352" target="_blank" rel="noreferrer"><img src="https:/ /raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https:// www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github. svg" ancho="32" altura="32" /></a> <a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main /public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Jmanul77Pasttri" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32 "/></a></p>
-
+<p align="center"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="32" height="32" /></a><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" /></a><a href="https://www.twitter.com/Jmanul77Pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32" height="32 " /></a>
+</p>
 
 
 
