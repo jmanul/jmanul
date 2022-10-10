@@ -1,8 +1,7 @@
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49499051/194436685-0b950441-9606-4d5e-a359-f4cf63660c53.png" width="250" border="0"/>
-</p>
 
 
+![logo_emoti](https://user-images.githubusercontent.com/49499051/194965924-c42f883e-87a8-45b2-b076-447b6b5c174e.svg)
 <h1>Hola, soy José Manuel</h1> 
 
 <h2>Me apasiona el desarrollo y el diseño web , soy un rock-metalero que disfruta mucho con el deporte al aire libre y dibujando</h2> 
@@ -56,4 +55,5 @@ ____
 <p align="center"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="32" height="32" /></a><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" /></a><a href="https://www.twitter.com/Jmanul77Pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32" height="32 " /></a>
 </p>
 
-<video src="https://user-images.githubusercontent.com/49499051/194427508-ac45e0ef-4777-4729-ad72-85e197023994.mp4" autoply muted loop></video>
+<p align="center"><img src="https://user-images.githubusercontent.com/49499051/194965924-c42f883e-87a8-45b2-b076-447b6b5c174e.svg" width="200" border="0"/>
+</p>
