@@ -3,14 +3,14 @@
 </p>
 
 
-<h1>Hola soy José Manuel   <img src="https://media.giphy.com/media/l49K0ffVgFGJkZRLi/giphy.gif" width="60"></h1> 
+<h1>Hola, soy José Manuel</h1> 
 
 <h2>Me apasiona el desarrollo y el diseño web , soy un rock-metalero que disfruta mucho con el deporte al aire libre y dibujando</h2> 
 
 
 
 
-* 🌍 Vivo en España 
+* 🌍 Vivo en Murcia (España) 
 * 🖥️ Puedes ver mi portafolio en [Mi portafolio](http://www.pasttri.com)[](http://www.pasttri.com)  
 * ✉️ Contactame en jmanul77@gmail.com 
 * 🌱 Actualmente sigo aprendiendo en OpenBootcamp
@@ -44,36 +44,16 @@ ____
 
 
 
+[![GitHub estadisticas](https://github-readme-stats.vercel.app/api?username=jmanul&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jmanul/github-readme-stats)
 
-<!--
-![logo_1_reduc](https://user-images.githubusercontent.com/49499051/194436685-0b950441-9606-4d5e-a359-f4cf63660c53.png)
+[![Top lenguajes](https://github-readme-stats.vercel.app/api/top-langs/?username=jmanul&layout=compact&theme=tokyonight&show_icons=true)](https://github.com/jmanul/github-readme-stats)
 
-**jmanul/jmanul** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-<a href="https://codepen.io/carlossalvadordiaz/pen/PozMmdq" target="_blank"> <img src="/images/toDo.png" width="120" height="120"/></a> 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jmanul&count_private=true&show_icons=true&theme=tokyonight)](https://github.com/jmanul/github-readme-stats)
 
 <p align="center"><a href="https://www.gifsanimados.org/cat-ranas-198.htm"><img src="https://www.gifsanimados.org/data/media/198/rana-imagen-animada-0466.gif" width="120" border="0" alt="rana-imagen-animada-0466" /></a>
 </p>
 
 <p align="center"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="32" height="32" /></a><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" /></a><a href="https://www.twitter.com/Jmanul77Pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32" height="32 " /></a>
 </p>
-
-
-
-
-
-
-
 
 <video src="https://user-images.githubusercontent.com/49499051/194427508-ac45e0ef-4777-4729-ad72-85e197023994.mp4" autoply muted loop></video>
