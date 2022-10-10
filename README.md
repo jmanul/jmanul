@@ -55,5 +55,5 @@ ____
 <p align="center"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="32" height="32" /></a><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" /></a><a href="https://www.twitter.com/Jmanul77Pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32" height="32 " /></a>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49499051/194965924-c42f883e-87a8-45b2-b076-447b6b5c174e.svg" width="200" border="0"/>
+<p align="center"><img src="https://user-images.githubusercontent.com/49499051/194967330-5e17eb53-000e-4d64-8ea5-0a27951542b3.svg" width="100" border="0"/>
 </p>
