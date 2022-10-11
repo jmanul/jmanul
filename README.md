@@ -39,6 +39,7 @@
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="32" height="32"/>
 <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/></a>
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="32" height="32"/>
+<img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="32" height="32"/>
 </p>
 
 ____
@@ -54,8 +55,7 @@ ____
 <p align="center"><a href="https://www.gifsanimados.org/cat-ranas-198.htm"><img src="https://www.gifsanimados.org/data/media/198/rana-imagen-animada-0466.gif" width="120" border="0" alt="rana-imagen-animada-0466" /></a>
 </p>
 
-<p align="center"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="32" height="32" /></a><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" /></a><a href="https://www.twitter.com/Jmanul77Pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32" height="32 " /></a>
+<p align="center"><a href="https://discord.com/channels/jmanul77#6352" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" width="32" height="32" /></a><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" /></a><a href="https://www.twitter.com/Jmanul77Pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32" height="32 " /></a>
 </p>
 
-<p align="center"><img src="https://user-images.githubusercontent.com/49499051/194967330-5e17eb53-000e-4d64-8ea5-0a27951542b3.svg" width="100" border="0"/>
-</p>
+<p align="center"><a href="http://www.pasttri.com"><img src="https://user-images.githubusercontent.com/49499051/194967330-5e17eb53-000e-4d64-8ea5-0a27951542b3.svg" width="100" border="0"/></a></p>
