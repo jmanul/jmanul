@@ -3,9 +3,11 @@
 
 ![logo_emoti](https://user-images.githubusercontent.com/49499051/194965924-c42f883e-87a8-45b2-b076-447b6b5c174e.svg)
 
-<h1 align="center"><img src="https://user-images.githubusercontent.com/49499051/195221321-496a200c-7e5b-4ceb-b869-49a84a19a39e.svg"width="150" border="0"/>Hola, soy José Manuel !!<img src="https://user-images.githubusercontent.com/49499051/195221321-496a200c-7e5b-4ceb-b869-49a84a19a39e.svg"width="150" border="0"/></h1>
+<h1 align="center">Hola, soy José Manuel !!</h1>
 
 <h2>Me apasiona el desarrollo y el diseño web , soy un rock-metalero que disfruta mucho con el deporte al aire libre y dibujando.</h2> 
+
+<p align="right"><img src="https://user-images.githubusercontent.com/49499051/195221321-496a200c-7e5b-4ceb-b869-49a84a19a39e.svg"width="150" border="0"/></p>
 
 ### Sobre mi
 
@@ -42,6 +44,8 @@
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="32" height="32"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="32" height="32"/>
 </p>
+
+<p align="right"><img src="https://user-images.githubusercontent.com/49499051/195221321-496a200c-7e5b-4ceb-b869-49a84a19a39e.svg"width="150" border="0"/></p>
 
 ____
 
