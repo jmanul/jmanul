@@ -5,22 +5,16 @@
 
 <h1 align="center">Hola, soy José Manuel !!</h1>
 
-<h2>Me apasiona el desarrollo y el diseño web , soy un rock-metalero que disfruta mucho con el deporte al aire libre y dibujando.</h2> 
+<h2><img src="https://user-images.githubusercontent.com/49499051/195230779-3427261b-4fd7-4e11-831a-a90d67348e57.png"width="40" border="0"/>Me apasiona el desarrollo y el diseño web , soy un rock-metalero que disfruta mucho con el deporte al aire libre y dibujando.</h2> 
 
-<p align="right"><img src="https://user-images.githubusercontent.com/49499051/195221321-496a200c-7e5b-4ceb-b869-49a84a19a39e.svg"width="150" border="0"/></p>
 
-### Sobre mi
-
-* 🌍 Vivo en Murcia (España) 
-* 🌱 Actualmente sigo aprendiendo en [OpenBootcamp](https://campus.open-bootcamp.com/)
-* ✉️ Contactame en jmanul77@gmail.com 
-* 🖥️ [Mi portafolio](http://www.pasttri.com)[](http://www.pasttri.com)  
+### 🌍 Vivo en Murcia (España) 
+### 🌱 Actualmente sigo aprendiendo en [OpenBootcamp](https://campus.open-bootcamp.com/)
+### ✉️ Contactame en jmanul77@gmail.com 
+### 🖥️ [Mi portafolio](http://www.pasttri.com)[](http://www.pasttri.com)  
 
  
-
-### Habilidades
-
-
+<h2><img src="https://user-images.githubusercontent.com/49499051/195230779-3427261b-4fd7-4e11-831a-a90d67348e57.png"width="40" border="0"/>Habilidades</h2> 
 
 <p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="32" height="32"/>
@@ -34,9 +28,7 @@
 <img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="32" height="32"/>
 </p>
 
-
-### Otros
-
+<h2><img src="https://user-images.githubusercontent.com/49499051/195230779-3427261b-4fd7-4e11-831a-a90d67348e57.png"width="40" border="0"/>Otros</h2> 
 
 <p align="left"> 
 <img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="32" height="32"/>
@@ -44,8 +36,6 @@
 <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="32" height="32"/>
 <img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="32" height="32"/>
 </p>
-
-<p align="right"><img src="https://user-images.githubusercontent.com/49499051/195221321-496a200c-7e5b-4ceb-b869-49a84a19a39e.svg"width="150" border="0"/></p>
 
 ____
 
