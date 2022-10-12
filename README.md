@@ -2,18 +2,19 @@
 
 
 ![logo_emoti](https://user-images.githubusercontent.com/49499051/194965924-c42f883e-87a8-45b2-b076-447b6b5c174e.svg)
-<h1>Hola, soy José Manuel !! 🤖</h1> 
+
+<h1 align="center"><img src="https://user-images.githubusercontent.com/49499051/195221321-496a200c-7e5b-4ceb-b869-49a84a19a39e.svg"width="150" border="0"/>Hola, soy José Manuel !!<img src="https://user-images.githubusercontent.com/49499051/195221321-496a200c-7e5b-4ceb-b869-49a84a19a39e.svg"width="150" border="0"/></h1>
 
 <h2>Me apasiona el desarrollo y el diseño web , soy un rock-metalero que disfruta mucho con el deporte al aire libre y dibujando.</h2> 
 
-
-<p align="center"><a href="https://giphy.com/stickers/Wegow-guitar-thumbsup-wegow-XckWhQw9e3ds20bdXh"><img src="https://media.giphy.com/media/XckWhQw9e3ds20bdXh/giphy.gif"width="150" border="0"/></a></p>
+### Sobre mi
 
 * 🌍 Vivo en Murcia (España) 
 * 🌱 Actualmente sigo aprendiendo en [OpenBootcamp](https://campus.open-bootcamp.com/)
 * ✉️ Contactame en jmanul77@gmail.com 
 * 🖥️ [Mi portafolio](http://www.pasttri.com)[](http://www.pasttri.com)  
 
+ 
 
 ### Habilidades
 
@@ -48,8 +49,6 @@ ____
 <p align="center"><a href="https://github.com/jmanul/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jmanul&count_private=true&show_icons=true&theme=tokyonight" /></a></p>
 
 <p align="center"><a href="https://github.com/jmanul/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanul&layout=compact&theme=tokyonight" /></a></P>
-
-
 
 <p align="center"><a href="https://giphy.com/stickers/Wegow-guitar-thumbsup-wegow-XckWhQw9e3ds20bdXh"><img src="https://media.giphy.com/media/XckWhQw9e3ds20bdXh/giphy.gif"width="150" border="0"/></a></p>
 
