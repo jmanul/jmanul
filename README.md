@@ -51,5 +51,3 @@ ____
 
 <p align="center"><a href="http://www.pasttri.com"><img src="https://user-images.githubusercontent.com/49499051/228085208-748d48cc-440a-4ca2-8bbd-75c7a6b89a3f.png" width="100" border="0"/></a></p>
 
-![logo_pasttri_redes]()
-https://user-images.githubusercontent.com/49499051/194967330-5e17eb53-000e-4d64-8ea5-0a27951542b3.svg
