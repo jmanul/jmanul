@@ -9,7 +9,7 @@
 
 
 ### 🌍 Vivo en Murcia (España) 
-### 🌱 Actualmente sigo aprendiendo en [OpenBootcamp](https://campus.open-bootcamp.com/)
+### 🌱 Actualmente sigo aprendiendo en [thepowermba](https://thepower.education/)
 ### ✉️ Contactame en jmanul77@gmail.com 
 ### 🖥️ [Mi portafolio](http://www.pasttri.com)[](http://www.pasttri.com)  
 
