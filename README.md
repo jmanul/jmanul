@@ -1,53 +1,100 @@
 
 
 
-![logo_emoti](https://user-images.githubusercontent.com/49499051/194965924-c42f883e-87a8-45b2-b076-447b6b5c174e.svg)
+<h1 align="center">
+  <span style="color: #ff00c8;">{</span>
+  <span style="color: #39ff14;">Jmanul</span>
+  <span style="color: #ff00c8;">}</span>
+</h1>
 
-<h1 align="center">Hola, soy José Manuel !!</h1>
+<p align="center"><a href="http://www.pasttri.com"><img src="https://user-images.githubusercontent.com/49499051/228085208-748d48cc-440a-4ca2-8bbd-75c7a6b89a3f.png" width="100" border="0"/></a></p>
 
-<h2><img src="https://user-images.githubusercontent.com/49499051/195230779-3427261b-4fd7-4e11-831a-a90d67348e57.png"width="40" border="0"/>Me apasiona el desarrollo y el diseño web , soy un rock-metalero que disfruta mucho con el deporte al aire libre y dibujando.</h2> 
+<h3 align="center">
+   <strong>
+    <span style="color: #39ff14;">‹∕›</span>
+    <span style="color: white;"> Fullstack-Developer </span>
+    <span style="color: #ff00c8;">‹∕›</span>
+    <span style="color: white;"> Diseñador Web </span>
+    <span style="color: #39ff14;">‹∕›</span>
+    <span style="color: white;"> Rock Lover </span>
+    <span style="color: #ff00c8;">‹∕›</span>
+  </strong>
+</h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/{-ff00c8?style=for-the-badge&logoColor=white&labelColor=000000&logoSize=50" height="60" />
+  <img src="https://img.shields.io/badge/Fullstack-Developer-39ff14?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rock-Lover-ff00c8?style=for-the-badge&logo=sonos&logoColor=white" />
+  <img src="https://img.shields.io/badge/Code-Creator-39ff14?style=for-the-badge&logo=github&logoColor=white" />
+ <img src="https://img.shields.io/badge/}-ff00c8?style=for-the-badge&logoColor=white&labelColor=000000" height="60" />
+</p>
+
+---
 
 
-### 🌍 Vivo en Murcia (España) 
-### 🌱 Actualmente sigo aprendiendo en [thepowermba](https://thepower.education/)
-### ✉️ Contactame en jmanul77@gmail.com 
-### 🖥️ [Mi portafolio](http://www.pasttri.com)[](http://www.pasttri.com)  
+
+### 🎯 Sobre mí
+
+- 📍 Vivo en **Murcia, España**
+- 🎓 En aprendizaje constante con [**ThePowerMBA**](https://thepower.education/)
+- 🖥️ Mira mis proyectos en [**pasttri.com**](http://www.pasttri.com)
+- ✉️ Contáctame: **jmanul77@gmail.com**
+- 🎸 Amante del **metal**, el **diseño web** y el **desarrollo con actitud**
 
  
-<h2><img src="https://user-images.githubusercontent.com/49499051/195230779-3427261b-4fd7-4e11-831a-a90d67348e57.png"width="40" border="0"/>Habilidades</h2> 
+---
 
-<p align="left"> 
-<img src="https://www.vectorlogo.zone/logos/w3_css/w3_css-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/w3_html5/w3_html5-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/java/java-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/typescriptlang/typescriptlang-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/angular/angular-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/postgresql/postgresql-icon.svg" width="32" height="32"/>
+### 🚀 Stack Tecnológico
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,svelte,mongodb,mysql,html,css,tailwind" height="48" />
 </p>
 
-<h2><img src="https://user-images.githubusercontent.com/49499051/195230779-3427261b-4fd7-4e11-831a-a90d67348e57.png"width="40" border="0"/>Otros</h2> 
-
-<p align="left"> 
-<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" width="32" height="32"/>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="32" height="32"/></a>
-<img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" width="32" height="32"/>
-<img src="https://www.vectorlogo.zone/logos/docker/docker-tile.svg" width="32" height="32"/>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,wordpress,vscode" height="48" />
 </p>
 
-____
+---
 
+### 🔥 Enfocado actualmente en:
+- 🔗 Desarrollo de **APIs REST** con **Node.js y Express**
+- ⚛️ Creación de interfaces reactivas con **React y Svelte**
+- 🧩 Integraciones dinámicas y rendimiento frontend
+- ☁️ Automatización y despliegues con **Docker**
+- 🎨 **Construyendo experiencias web únicas** con alma de **rockero**
 
-<p align="center"><a href="https://github.com/jmanul/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api?username=jmanul&count_private=true&show_icons=true&theme=tokyonight" /></a></p>
+---
 
-<p align="center"><a href="https://github.com/jmanul/github-readme-stats"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanul&layout=compact&theme=tokyonight" /></a></P>
+### 🎸 Entre líneas, beats y café!
+
+<p align="center">
+  <a href="https://github.com/jmanul">
+    <img src="https://github-readme-stats.vercel.app/api?username=jmanul&show_icons=true&theme=radical&hide_border=true&title_color=ff00c8&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" height="165" />
+  </a>
+ </p>
+ <p align="center">
+  <a href="https://github.com/jmanul">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanul&layout=compact&theme=radical&hide_border=true&title_color=39ff14&text_color=ffffff&bg_color=0d1117" height="165" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=jmanul&theme=radical&hide_border=true&ring=ff00c8&fire=39ff14&currStreakLabel=39ff14&background=0D1117" height="165" />
+</p>
+
+---
+
+<p align="center">
+  <strong><span style="color:#39ff14;">Transformando ideas en código</span> • <span style="color:#ff00c8;">Construyendo experiencias web únicas</span></strong>
+</p>
 
 <p align="center"><a href="https://giphy.com/stickers/Wegow-guitar-thumbsup-wegow-XckWhQw9e3ds20bdXh"><img src="https://media.giphy.com/media/XckWhQw9e3ds20bdXh/giphy.gif"width="150" border="0"/></a></p>
 
-<p align="center"><a href="https://discord.com/channels/jmanul77#6352" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dn6utw1rl/image/upload/v1719862274/discord_icon_130958_id8ioy.png" width="32" height="32" /></a><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" /></a><a href="https://www.twitter.com/Jmanul77Pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" width="32" height="32 " /></a>
+---
+
+<p align="center"><a href="https://discord.com/channels/jmanul77#6352" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dn6utw1rl/image/upload/v1719862274/discord_icon_130958_id8ioy.png" width="32" height="32" /></a><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" /></a>
 </p>
 
-<p align="center"><a href="http://www.pasttri.com"><img src="https://user-images.githubusercontent.com/49499051/228085208-748d48cc-440a-4ca2-8bbd-75c7a6b89a3f.png" width="100" border="0"/></a></p>
+---
+
 
