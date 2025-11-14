@@ -51,7 +51,7 @@
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,wordpress,vscode" height="48" />
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,github,wordpress,vscode,figma" height="48" />
 </p>
 
 ---
