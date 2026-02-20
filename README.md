@@ -68,17 +68,6 @@
 ### 🎸 Entre líneas, beats y café!
 
 <p align="center">
-  <a href="https://github.com/jmanul">
-    <img src="https://github-readme-stats.vercel.app/api?username=jmanul&show_icons=true&theme=radical&hide_border=true&title_color=ff00c8&icon_color=39ff14&text_color=ffffff&bg_color=0d1117" height="165" />
-  </a>
- </p>
- <p align="center">
-  <a href="https://github.com/jmanul">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jmanul&layout=compact&theme=radical&hide_border=true&title_color=39ff14&text_color=ffffff&bg_color=0d1117" height="165" />
-  </a>
-</p>
-
-<p align="center">
   <img src="https://streak-stats.demolab.com?user=jmanul&theme=radical&hide_border=true&ring=ff00c8&fire=39ff14&currStreakLabel=39ff14&background=0D1117" height="165" />
 </p>
 
