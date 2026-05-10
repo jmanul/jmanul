@@ -80,10 +80,16 @@
 <p align="center"><a href="https://giphy.com/stickers/Wegow-guitar-thumbsup-wegow-XckWhQw9e3ds20bdXh"><img src="https://media.giphy.com/media/XckWhQw9e3ds20bdXh/giphy.gif"width="150" border="0"/></a></p>
 
 ---
-
-<p align="center"><a href="https://discord.com/channels/jmanul77#6352" target="_blank" rel="noreferrer"><img src="https://res.cloudinary.com/dn6utw1rl/image/upload/v1719862274/discord_icon_130958_id8ioy.png" width="32" height="32" /></a><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/github/github-tile.svg" width="32" height="32" /></a><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-tile.svg" width="32" height="32" /></a><a href="https://www.linkedin.com/in/jmanul" target="_blank " rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" width="32" height="32" /></a>
-</p>
-
+<div align="center">
+  <table>
+    <tr>
+      <td><a href="https://discord.com/channels/jmanul77#6352" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=discord&theme=dark" width="32" height="32" alt="Discord"/></a></td>
+      <td><a href="https://www.github.com/jmanul" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=github&theme=dark" width="32" height="32" alt="GitHub"/></a></td>
+      <td><a href="http://www.instagram.com/pasttri" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linkedin&theme=dark" width="32" height="32" alt="Instagram"/></a></td>
+      <td><a href="https://www.linkedin.com/in/jmanul" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=instagram&theme=dark" width="32" height="32" alt="LinkedIn"/></a></td>
+    </tr>
+  </table>
+</div>
 ---
 
 
